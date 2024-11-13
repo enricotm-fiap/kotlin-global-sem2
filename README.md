@@ -1,6 +1,6 @@
-Integrantes:
-Enrico Thomas Mazelli - 94371
-Luigi Macedo Silva - 93989
+#### Integrantes:  
+- Enrico Thomas Mazelli - 94371  
+- Luigi Macedo Silva - 93989  
 
-Github:
+#### Github:  
 https://github.com/enricotm-fiap/kotlin-global-sem2
